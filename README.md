@@ -1,4 +1,4 @@
-## Olá! Bem-vindo!
+## Bem-vindo!
 
 <div display="inline">
   <a href="https://www.linkedin.com/in/felipeleopoldino/">
